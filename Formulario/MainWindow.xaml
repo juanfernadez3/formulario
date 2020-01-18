@@ -61,7 +61,7 @@
         <TextBox HorizontalAlignment="Left" Height="23" Margin="360,230,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="72,261,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <Button Content="Examinar" HorizontalAlignment="Left" Margin="624,204,0,0" VerticalAlignment="Top" Width="147" Height="28"/>
-        <Image HorizontalAlignment="Left" Margin="624,13,0,229" Width="147">
+        <Image HorizontalAlignment="Left" Margin="624,13,0,229" Width="147" Source="foto.jpeg">
             <Image.OpacityMask>
                 <ImageBrush ImageSource="foto.jpeg" TileMode="Tile"/>
             </Image.OpacityMask>
